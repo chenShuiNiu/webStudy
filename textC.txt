@@ -1,9 +1,7 @@
 公共文件修改还
 
-<<<<<<< HEAD
 
 
 2222222-login功能xiugaibug
-=======
 1111111-register用的方法
->>>>>>> register
+33333333
